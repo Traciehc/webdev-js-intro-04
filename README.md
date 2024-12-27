@@ -38,7 +38,7 @@ To view the project locally, you can either open the project files in your code 
 #### Part 2
 
 - [X] Navigate to the Assignment Page
-- [ ] Read the assignment overview and output section.
+- [X] Read the assignment overview and output section.
 - [ ] In `assignment.js`:
     - [ ] Create an immutable variable that will store a reference to the paragraph tag with the id of `response`.
     - [ ] Create a mutable variable called `age`, but do not assign it a value.
